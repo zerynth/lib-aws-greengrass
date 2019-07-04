@@ -1,0 +1,14 @@
+---
+description: AWS Greengrass support
+fullname: lib.aws.greengrass
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth AWS Greengrass Library
+    type: IoT Cloud
+keywords:
+- aws
+- iot
+- greengrass
+title: AWS Greengrass Library
+...
